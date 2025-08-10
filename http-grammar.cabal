@@ -1,6 +1,6 @@
 cabal-version:       3.0
 name:                http-grammar
-version:             0.1.0.3
+version:             0.1.0.4
 synopsis:            Attoparsec-based parsers for the RFC-2616 HTTP grammar rules.
 description:         The purpose of this package is to provide a faithful
                      implementation of the RFC-2616 HTTP grammar rules without
